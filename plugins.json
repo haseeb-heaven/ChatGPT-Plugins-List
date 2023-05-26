@@ -1,0 +1,540 @@
+{
+    "plugins": [
+        {
+            "Name": "Video Insights",
+            "Description": "Interact with online video platforms like Youtube or Daily Motion."
+        },
+        {
+            "Name": "ndricks Sports",
+            "Description": "Get information about pro teams (NHL, NBA, NFL, MLB) teams by calling the ndricks Software Sports API."
+        },
+        {
+            "Name": "Shimmer: Nutrition Coach",
+            "Description": "Track meals & gain insights for a healthier lifestyle from 1m+ restaurants & grocery stores."
+        },
+        {
+            "Name": "Decision Journal",
+            "Description": "Become a better decision maker by keeping track of your decisions and reviewing how they turn out."
+        },
+        {
+            "Name": "Noteable",
+            "Description": "Create notebooks in Python, SQL, and Markdown to explore data, visualize, and share notebooks with everyone."
+        },
+        {
+            "Name": "Magnetis",
+            "Description": "Magnetis is a digital wealth manager. Get updated data on portfolios returns and allocations. Ask me about Magnetis."
+        },
+        {
+            "Name": "Hauling Buddies",
+            "Description": "Locate dependable animal transporters using recommendations, reviews, and regulatory compliance search features."
+        },
+        {
+            "Name": "Speak",
+            "Description": "Learn how to say anything in another language with Speak, your AI-powered language tutor."
+        },
+        {
+            "Name": "Instacart",
+            "Description": "What cookin'? Ask about recipes, meal plans, & more -- and get ingredients delivered from 40,000+ stores!"
+        },
+        {
+            "Name": "Creature Generator",
+            "Description": "Creates a random creature and an image it for use in role playing games."
+        },
+        {
+            "Name": "KalendarAI",
+            "Description": "KalendarAI sales agents generate revenue with potential customers from 200+ million companies globally."
+        },
+        {
+            "Name": "Polygon",
+            "Description": "Market data, news, and fdamentals for stocks, options, forex, and crypto from Polygon.io."
+        },
+        {
+            "Name": "Golden",
+            "Description": "Get current factual data on companies from the Golden knowledge graph."
+        },
+        {
+            "Name": "Weather Report",
+            "Description": "Current weather data for cities and airports using METAR aviation feeds."
+        },
+        {
+            "Name": "Vivian Health",
+            "Description": "Take the first step to finding your next healthcare job."
+        },
+        {
+            "Name": "Wahi",
+            "Description": "Hey Ontario, ask and get so in the know on the latest listings, property insights and more."
+        },
+        {
+            "Name": "Scraper",
+            "Description": "Scrape content from webpages by providing a URL."
+        },
+        {
+            "Name": "Shop",
+            "Description": "Search for millions of products from the world's greatest brands."
+        },
+        {
+            "Name": "Open Lecture",
+            "Description": "Discover and access the right moments in open course lectures for targeted learning."
+        },
+        {
+            "Name": "SEO Assistant",
+            "Description": "The SEO Assistant can generate search engine keyword information in order to aid the creation of content."
+        },
+        {
+            "Name": "SEO CORE AI",
+            "Description": "Use AI to analyze and improve the SEO of a website. Get advice on websites, keywords and competitors."
+        },
+        {
+            "Name": "Chess",
+            "Description": "leash your inner chess master with this interactive chess experience! You can play against a novice or a grandmaster!"
+        },
+        {
+            "Name": "WebPilot",
+            "Description": "Browse & QA Webpage/PDF/Data. Generate articles, from one or more URLs."
+        },
+        {
+            "Name": "DEV Commity",
+            "Description": "Plugin for recommending articles or users from DEV Commity."
+        },
+        {
+            "Name": "Wishbucket",
+            "Description": "ified product search across all Korean platforms and brands."
+        },
+        {
+            "Name": "OwlJourney",
+            "Description": "Provides lodging and activity suggestions, ensuring an engaging and user-friendly journey."
+        },
+        {
+            "Name": "There's An AI For That",
+            "Description": "Find the right AI tools for any use case, from the world's largest database of AI tools."
+        },
+        {
+            "Name": "Photorealistic",
+            "Description": "Generate Photorealistic prompts for Midjourney."
+        },
+        {
+            "Name": "GoFynd",
+            "Description": "Elevate your shopping experience with GoFynd."
+        },
+        {
+            "Name": "Creatuity Stores",
+            "Description": "We integrate stores so you can search for products in all of them at the same time."
+        },
+        {
+            "Name": "Link Reader",
+            "Description": "Reads the content of all kinds of links, like webpage, PDF, PPT, image, Word & other docs."
+        },
+        {
+            "Name": "AITickerChat",
+            "Description": "Retrieve USA stock insights from SEC filings as well as Earnings Call Transcripts."
+        },
+        {
+            "Name": "FdsDB",
+            "Description": "Discover fding opportities in UK and India on FdsDB. Type in your query in any language or /help for assistance."
+        },
+        {
+            "Name": "ABC Music Notation",
+            "Description": "Plugin for converting ABC music notation to wav, midi and postscript files."
+        },
+        {
+            "Name": "Speechki",
+            "Description": "The easiest way to convert texts to ready-to-use audio download link, audio player page, or embed!"
+        },
+        {
+            "Name": "Tutory",
+            "Description": "Access affordable, on-demand tutoring and education right at your fingertips."
+        },
+        {
+            "Name": "PlaylistAI",
+            "Description": "Create Spotify playlists for any prompt."
+        },
+        {
+            "Name": "BizToc",
+            "Description": "Search BizToc for business & finance news."
+        },
+        {
+            "Name": "Tasty Recipes",
+            "Description": "Discover recipe ideas, meal plans and cooking tips from Tasty's millions of users!"
+        },
+        {
+            "Name": "UK Latest News",
+            "Description": "Get the latest news stories from the UK's top news outlets including BBC News, Sky News, The Independent, and others."
+        },
+        {
+            "Name": "Access Link",
+            "Description": "Access any links on the web and get the information you need."
+        },
+        {
+            "Name": "DAIZY",
+            "Description": "Deep insights on ETFs, stocks, cryptos. Institutional-grade data: performance, risk, sustainability, research."
+        },
+        {
+            "Name": "Hubbub",
+            "Description": "Local health risk & safety guidance for COVID-19, Flu, RSV and more in the US."
+        },
+        {
+            "Name": "Public",
+            "Description": "Get real-time and historical market data, including asset prices, news, research, and comprehensive financial analysis."
+        },
+        {
+            "Name": "Giga Tutor",
+            "Description": "Giga is your AI powered personalised tutor, it keeps the answers to your questions personalised."
+        },
+        {
+            "Name": "Bohita",
+            "Description": "Create apparel with any image you can describe! Get it delivered right to your door."
+        },
+        {
+            "Name": "Trip.com",
+            "Description": "Discover the ultimate travel companion - simplify your flight and hotel bookings. Enjoy your effortless trip!"
+        },
+        {
+            "Name": "Tomorrow.io Weather",
+            "Description": "Predicting, planning, and adapting to the weather forecast via contextualized chat-based insights."
+        },
+        {
+            "Name": "Metaphor",
+            "Description": "Access the internet's highest quality content. Recommended by people, powered by neural search."
+        },
+        {
+            "Name": "LawyerPR",
+            "Description": "Matching your ideal lawyer, in Japan. Let's Start with a Preliminary Review."
+        },
+        {
+            "Name": "VoxScript",
+            "Description": "Enables searching of YouTube transcripts, financial data sources, and Google Search results, and more!"
+        },
+        {
+            "Name": "ABCmouse",
+            "Description": "Provides f and educational learning activities for children 2-8 years old."
+        },
+        {
+            "Name": "Statis Fd Finance",
+            "Description": "Financial data tool for analyzing equities. You can get price quotes, analyze moving averages, RSI, and more."
+        },
+        {
+            "Name": "Tic Tac Toe",
+            "Description": "Playing a game of Tic Tac Toe with varying board sizes. You can submit your move and get the AI's response move."
+        },
+        {
+            "Name": "Podcast search",
+            "Description": "This tool explores podcasts from PodcastIndex.org, a platform for decentralized audio content discovery."
+        },
+        {
+            "Name": "I Am Rich",
+            "Description": "Proudly declare 'I am rich'."
+        },
+        {
+            "Name": "Change",
+            "Description": "Discover impactful nonprofits to support in your commity and beyond."
+        },
+        {
+            "Name": "Xpapers",
+            "Description": "Effortlessly find real academic papers on arXiv. Dive into abstracts, references, and access public PDF URLs."
+        },
+        {
+            "Name": "Weather",
+            "Description": "Provides weather forecast based on location. Includes temperature, precipitation, cloud cover, wind and much more."
+        },
+        {
+            "Name": "BuyWisely",
+            "Description": "Compare Prices & Discover the Latest Offers from thousands of online shops in Australia."
+        },
+        {
+            "Name": "Easy Resume",
+            "Description": "Quickly create and edit your resume with the option to download as a docx or pdf, and find the job you deserve!"
+        },
+        {
+            "Name": "Crafty Clues",
+            "Description": "Guess the words that the AI craftily clues for you. Add restrictions to make the game more interesting!"
+        },
+        {
+            "Name": "Bibliography Crossref",
+            "Description": "Search publications and generate bibtex bibliographies using Crossref and Zotero."
+        },
+        {
+            "Name": "Expedia",
+            "Description": "Bring your trip plans to life \u2013 get there, stay there, find things to see and do."
+        },
+        {
+            "Name": "Tabelog",
+            "Description": "Allows you to find restaurants in Japan that have availability for reservations."
+        },
+        {
+            "Name": "ScholarAI",
+            "Description": "lock the power of scientific research with peer-reviewed papers from PubMed, Arxiv, Springer, and more."
+        },
+        {
+            "Name": "Abridged Due Diligence",
+            "Description": "Discover the details! Search through recent SEC filings, with links to deeper analysis."
+        },
+        {
+            "Name": "Klarna Shopping",
+            "Description": "Search and compare prices from thousands of online shops. Only available in the US."
+        },
+        {
+            "Name": "Ambition",
+            "Description": "Search millions of jobs near you."
+        },
+        {
+            "Name": "Options Pro",
+            "Description": "Options Pro is your personal options trading assistant to help you navigate market conditions."
+        },
+        {
+            "Name": "World News",
+            "Description": "Summarize news headlines. You can ask for the latest news from various sources arod the world."
+        },
+        {
+            "Name": "AskYourPDF",
+            "Description": "lock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips."
+        },
+        {
+            "Name": "RoboAd",
+            "Description": "Your AI powered Ad Assistant!"
+        },
+        {
+            "Name": "Show Me",
+            "Description": "Create and edit diagrams directly in chat."
+        },
+        {
+            "Name": "QuickRecall",
+            "Description": "Create flashcards and review them with spaced repeition."
+        },
+        {
+            "Name": "KAYAK",
+            "Description": "Search flights, stays & rental cars or get recommendations where you can go on your budget."
+        },
+        {
+            "Name": "Giftwrap",
+            "Description": "Ask about gift ideas for any occasion and recipient. Get it wrapped and delivered, no address needed."
+        },
+        {
+            "Name": "Zumper Rental Search",
+            "Description": "Find a rental home in the US and Canada."
+        },
+        {
+            "Name": "Local by GoodCall",
+            "Description": "Discover and support restaurants, shops & services near you.7"
+        },
+        {
+            "Name": "C3 Glide",
+            "Description": "Get live aviation data for pilots. Ask questions about METARs, TAFs, NOTAMs for flight planning."
+        },
+        {
+            "Name": "Yabble",
+            "Description": "Create insights instantly. Any audience. Any question. Yabble it."
+        },
+        {
+            "Name": "Clinical Trial Radar",
+            "Description": "Discover current info on global clinical trials, organizations, diseases, and biomarkers from public & private studies."
+        },
+        {
+            "Name": "GameBase",
+            "Description": "Chat and get game info, database is based on the latest gaming information in 2023, supports multiple platforms."
+        },
+        {
+            "Name": "MixerBox OnePlayer",
+            "Description": "limited music, podcasts, and videos across various genres. Enjoy endless listening with our rich playlists!"
+        },
+        {
+            "Name": "CreditYelp",
+            "Description": "Access various essential financial calculators for a detailed repayment schedule and payoff term."
+        },
+        {
+            "Name": "SEO.app",
+            "Description": "Your personal SEO assistant for content marketing."
+        },
+        {
+            "Name": "CreatiCode Scratch",
+            "Description": "Display Scratch programs as images and write 2D/3D programs using CreatiCode Scratch extensions."
+        },
+        {
+            "Name": "BlockAtlas",
+            "Description": "Search the US Census! Find data sets, ask questions, and visualize."
+        },
+        {
+            "Name": "Website Performance",
+            "Description": "Measure key metrics about your website - performance, accessibility, best practices, SEO, PWA."
+        },
+        {
+            "Name": "Kraftful",
+            "Description": "Your product development coach. Ask about best practices. Get top gurus product thinking."
+        },
+        {
+            "Name": "Bramework",
+            "Description": "Find keywords, generate content briefs, perform SEO analysis, and extract SEO information."
+        },
+        {
+            "Name": "Klook",
+            "Description": "From local escapes to far flg adventures, find the best experiences, tours, hotels and transport options anywhere."
+        },
+        {
+            "Name": "Zillow",
+            "Description": "Your real estate assistant is here! Search listings, view property details, and get home with Zillow."
+        },
+        {
+            "Name": "Coupert",
+            "Description": "Search for the internet best coupons from thousands of online stores."
+        },
+        {
+            "Name": "Career Copilot",
+            "Description": "A trusted, always on assistant to help software developers find a better job. Built by Commit.dev."
+        },
+        {
+            "Name": "PortfoliosLab",
+            "Description": "Stocks, ETFs, fds, crypto analysis: historical performance, volatility, risk metrics, Sharpe ratio, drawdowns, etc."
+        },
+        {
+            "Name": "Keyplays Live Soccer",
+            "Description": "Latest live soccer standings, results, commentary, tv stations, keyplays (with and without scores)."
+        },
+        {
+            "Name": "edX",
+            "Description": "Find courses and content from leading iversities to expand your knowledge at any level."
+        },
+        {
+            "Name": "Likewise",
+            "Description": "Your media and entertainment companion. Get TV, Movies, Books & Podcast Recommendations."
+        },
+        {
+            "Name": "Savvy Trader AI",
+            "Description": "Realtime stock, crypto and other investment data."
+        },
+        {
+            "Name": "QuakePH",
+            "Description": "Stay updated with the latest earthquakes in the Philippines."
+        },
+        {
+            "Name": "Word Sneak",
+            "Description": "The AI has to sneak 3 secret words into your conversation. Guess the words to win the game!"
+        },
+        {
+            "Name": "ChatSpot",
+            "Description": "Get access to marketing/sales data including domain information, company research and search keyword research."
+        },
+        {
+            "Name": "Currency Converter",
+            "Description": "Convert currencies based on real-time rates."
+        },
+        {
+            "Name": "Planfit",
+            "Description": "Get your tailored workout plan and instructions with videos - AI-powered Workout Coach, Planfit."
+        },
+        {
+            "Name": "Cloudflare Radar",
+            "Description": "Get real-time insights into Internet traffic patterns and threats as seen by Cloudflare."
+        },
+        {
+            "Name": "Competitor PPC Ads",
+            "Description": "Discover your competitors' best PPC ads by entering their website address."
+        },
+        {
+            "Name": "FiscalNote",
+            "Description": "FiscalNote enables access to select market-leading, real-time data sets for legal, political, and regulatory information"
+        },
+        {
+            "Name": "Comic Finder",
+            "Description": "A plugin that finds a relevant comic given a description. Currently supports XKCD and SMBC comics."
+        },
+        {
+            "Name": "Penrose Analyst",
+            "Description": "Search global news and research papers. Summarize Arxiv.org links. Ask me for the latest news!"
+        },
+        {
+            "Name": "Turo",
+            "Description": "Search for the perfect Turo vehicle for your next trip."
+        },
+        {
+            "Name": "Algorithma",
+            "Description": "Shape your virtual life with in this immersive life simulator game to begin Type /start to begin."
+        },
+        {
+            "Name": "Ai Tool Ht",
+            "Description": "Explore the ideal AI solutions for all use cases, drawn from the most comprehensive global database of AI tools."
+        },
+        {
+            "Name": "PortfolioPilot",
+            "Description": "Your AI investing guide: portfolio assessment, recommendations, answers to all finance questions."
+        },
+        {
+            "Name": "MixerBox News",
+            "Description": "Get latest news delivered right to you! Stay informed with bulletins across multiple categories from credible sources."
+        },
+        {
+            "Name": "Open Trivia",
+            "Description": "Get trivia questions from various categories and difficulty levels."
+        },
+        {
+            "Name": "Glowing",
+            "Description": "Schedule and send daily SMS messages - reminders, inspiration, helpers and more."
+        },
+        {
+            "Name": "Boolio",
+            "Description": "The easiest way to analyze global stock values with the power of quantitative factor methodologies."
+        },
+        {
+            "Name": "One Word Domains",
+            "Description": "Check the availability of a domain and compare prices across different registrars."
+        },
+        {
+            "Name": "Yay! Forms",
+            "Description": "Allows you to create AI-Powered Forms, Surveys, Quizzes, or Questionnaires on Yay! Forms."
+        },
+        {
+            "Name": "OpenTable",
+            "Description": "Allows you to search for restaurants available for booking dining experiences"
+        },
+        {
+            "Name": "ChatWithVideo",
+            "Description": "Ask questions, analyzing, and parsing through YouTube videos by simply providing a YouTube video URL."
+        },
+        {
+            "Name": "CoinCap",
+            "Description": "Get cryptocurrency information from CoinCap."
+        },
+        {
+            "Name": "Manorlead",
+            "Description": "Get a list of listings for rent or sale in cities across Canada and the US based on your search criteria."
+        },
+        {
+            "Name": "GetYourGuide",
+            "Description": "Find tours, excursions and other travel activities."
+        },
+        {
+            "Name": "Lexi Shopper",
+            "Description": "Get product recommendations from your local Amazon store."
+        },
+        {
+            "Name": "Paxi AI",
+            "Description": "Let AI tools speed up your tasks! Make it easy to find the right tool for the task."
+        },
+        {
+            "Name": "Visla",
+            "Description": "Create a short video from public stock footage based on your specified topic."
+        },
+        {
+            "Name": "Wolfram",
+            "Description": "Access computation, math, curated knowledge & real-time data through Wolfram|Alpha and Wolfram Language."
+        },
+        {
+            "Name": "Polarr",
+            "Description": "Search Polarr's massive pool of user generated filters to make your photos and videos perfect."
+        },
+        {
+            "Name": "Zapier",
+            "Description": "Interact with over 5,000+ apps like Google Sheets, Gmail, HubSpot, Salesforce, and thousands more."
+        },
+        {
+            "Name": "APEX Map",
+            "Description": "Checking the current APEX Legends Ranked Map."
+        },
+        {
+            "Name": "Rentable Apartments",
+            "Description": "Get apartment options in a city of your choice, scoped to your needs and budget."
+        },
+        {
+            "Name": "Redfin",
+            "Description": "Have questions about the housing market? Find the answers to help you win in today's market."
+        }
+    ]
+}
