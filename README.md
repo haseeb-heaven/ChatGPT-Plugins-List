@@ -12,10 +12,10 @@ The data is available in JSON format and is stored in `plugins.json` file.
 The data is available in Table format and is stored in `plugins.md` file.
 
 # How to search for plugins ?
-You can use the `script.py` file to search for plugins.
-Run the script using python using command `python script.py` and then enter the name of the plugin you want to search for.
-Example: `python script.py 'Weather'` - to search for plugins related to weather.
-Example: `python script.py 'Weather' 'Jobs'` - to search for plugins related to weather and Jobs.
+- You can use the `script.py` file to search for plugins.</br>
+- Run the script using python using command `python script.py` and then enter the name of the plugin you want to search for.</br>
+- Example: `python script.py 'Weather'` to search for plugins related to weather.</br>
+- Example: `python script.py 'Jobs'`to search for plugins related to Jobs.</br>
 
 ## Plugins in data table format.
 | Plugin Name | Plugin Description |
